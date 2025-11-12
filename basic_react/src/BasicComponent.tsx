@@ -19,7 +19,8 @@ function BasicComponent(){ {/*Parent Component */}
 
         <Button variant="warning">Test Component Lagi</Button>
 
-        <StateCounter/>
+        <StateCounter/> 
+        {/*testing*/}
 
     </>
 }
